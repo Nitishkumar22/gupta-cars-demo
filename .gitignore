@@ -1,3 +1,14 @@
-email.md
+# Private notes – never publish (public repo)
+CLAUDE.md
 input.md
+email.md
+*.local.md
+
+# OS / editor
 .DS_Store
+.vscode/
+.idea/
+
+# Scratch
+*.log
+node_modules/
